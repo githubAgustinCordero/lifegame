@@ -1,6 +1,6 @@
 # lifegame
 
-DEMO => https://agustincordero.monster./vida
+DEMO => https://agustincordero.monster/vida
 
 Sandbox en el que estableciendo el valor de repulsión de un elemento(color) contra otro(color) da lugar a patrones y comportamientos con patrones.
 Dispone de algunas configuraciones para cambiar el estilo, numero de elementos, aleatoriedad, etc.
